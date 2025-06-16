@@ -1,4 +1,4 @@
-<h1 align="center">✨ PStoreCraft---PERN-Stack-Product-Store
+<h1 align="center">✨ StoreCraft - PERN-Stack-Product-Store
  ✨</h1>
 
 Details:
