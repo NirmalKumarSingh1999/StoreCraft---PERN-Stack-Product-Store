@@ -1,15 +1,12 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
+<h1 align="center">✨ PStoreCraft---PERN-Stack-Product-Store
+ ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-Highlights:
+Details:
 
 - 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and client
-- ⭐ Deployment for FREE!
-- ⏳ And much more!
 
 ### Setup .env file
 
